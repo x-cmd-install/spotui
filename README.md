@@ -12,34 +12,7 @@ Spotify in the terminal 💻🎶
 x install spotui
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/ceuk/spotui>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v0.1.20` (2022-12-28)
-- **Last commit**: 2023-02-14
-- **Published**: 2022-12-28T22:54:11Z
-
-## Popularity
-
-- **Stars**: 576 · **Forks**: 20 · **Open issues**: 25 · **Contributors**: 3
-
-## Totals (cumulative)
-
-- **Releases**: 9 · **Merged PRs**: 9 · **Open PRs**: 2 · **Closed issues**: 19 · **Open issues**: 6 · **Commits**: 75
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 1 | 0 |
-
-## Code size
+## Code insight
 
 Total: **1,239** lines of code across **23** files in the top 5 languages.
 
@@ -58,13 +31,42 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
+## Source
+
+- **Upstream**: <https://github.com/ceuk/spotui>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v0.1.20` (2022-12-28)
+- **Last commit**: 2023-02-14
+
+## Popularity
+
+- **Stars**: 576 · **Forks**: 20 · **Open issues**: 25 · **Contributors**: 3
+
+## Totals (cumulative)
+
+- **Releases**: 9 · **Merged PRs**: 9 · **Open PRs**: 2 · **Closed issues**: 19 · **Open issues**: 6 · **Commits**: 75
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 1 | 0 |
+
 ## Improve this data
 
 Install metadata for spotui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `spotui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/spotui.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/spotui.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:41:03Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:51:20Z._
