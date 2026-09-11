@@ -184,4 +184,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 16 are checked with a SAST tool'
 ---
-{"id":87470630,"author":{"login":"ceuk","id":1681236,"node_id":"MDQ6VXNlcjE2ODEyMzY=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDODdwfHc4FNrIm","tag_name":"v0.1.20","target_commitish":"master","name":"v0.1.20","draft":false,"immutable":false,"prerelease":false,"created_at":"2022-12-28T14:28:22Z","updated_at":"2022-12-28T22:54:11Z","published_at":"2022-12-28T22:54:11Z","assets":[],"body":""}
